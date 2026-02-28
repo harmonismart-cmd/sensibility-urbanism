@@ -1,5 +1,7 @@
 # Sensibility Urbanism
 ### Measuring the Invisible Qualities of Cities
+Paper:
+https://harmonismart-cmd.github.io/sensibility-urbanism/
 
 Sensibility Urbanism is an urban theory proposed by Kazuto Kojima, a producer and artist based in Osaka, Japan.
 
@@ -73,3 +75,20 @@ Urban Measurement
 City Perception  
 Harmonism  
 Kazuto Kojima
+
+## Related Articles
+
+Introductory article (Japanese):
+
+Sensibility Urbanismを公開しました｜都市を感性から設計する試み  
+https://note.com/harmonism/n/n4f79dfe1f996
+
+Concept explanation:
+
+What is Sensibility Urbanism?  
+https://note.com/harmonism/
+
+Philosophical foundation:
+
+Harmonism Philosophy  
+https://confused-option-c17.notion.site/Harmonism-Philosophy-3159356a0bdd80b398a1ff2cc69f845d
